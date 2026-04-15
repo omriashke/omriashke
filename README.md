@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Omri 👋
 
-<!--
-**omriashke/omriashke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer and math student from Israel.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+🔐 **[Agent-Secret-CLI](https://github.com/omriashke/agent-secrets-cli)** — Secret management for AI agents. Find credentials by meaning using natural language search. Go · Apache 2.0
+
+---
+
+[![X](https://img.shields.io/badge/-@omri__ashkenazi__-000?style=flat&logo=x&logoColor=white)](https://x.com/omri_ashkenazi_)
+[![LinkedIn](https://img.shields.io/badge/-Omri%20Ashkenazi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omri-ashkenazi-9623b1323/)
