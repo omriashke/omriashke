@@ -1,10 +1,12 @@
 # Hey, I'm Omri 👋
 
-Full-stack engineer and math student from Israel.
+24 y/o full-stack engineer and math student from Israel. Currently building at **[Getruck](https://www.getruck.co.il/)**.
+
+**Stack** · Node.js · NestJS · React · Expo · Go · Python · Kafka · Airflow · PostgreSQL · MongoDB · Docker · Kubernetes · Terraform
 
 ---
 
-### Projects
+### Featured Projects
 
 🔐 **[Agent-Secret-CLI](https://github.com/omriashke/agent-secrets-cli)** — Secret management for AI agents. Find credentials by meaning using natural language search. Go · Apache 2.0
 
