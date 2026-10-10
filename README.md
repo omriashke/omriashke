@@ -1,6 +1,6 @@
 # Hey, I'm Omri 👋
 
-24 y/o full-stack engineer and math student from Israel. Currently building at **[Getruck](https://www.getruck.co.il/)**.
+24 y/o full-stack engineer and math student from Israel. Currently building at **[GetETL](https://www.getetl.com/)**.
 
 **Stack** · Node.js · NestJS · React · Expo · Go · Python · Kafka · Airflow · PostgreSQL · MongoDB · Docker · Kubernetes · Terraform
 
